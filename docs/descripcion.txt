@@ -1,0 +1,5 @@
+Proyecto de gestion academica.
+
+Objetivo:
+Desarrollar un sistema para administrar
+informacion de estudiantes universitarios.
